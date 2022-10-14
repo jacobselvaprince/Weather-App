@@ -1,0 +1,8 @@
+Weather Stack Access key :
+                ceecfce4f8640b409336bc18c0068dd5
+                ceecfce4f8640b409336bc18c0068dd5
+
+MapBox key :
+            "https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=YOUR_MAPBOX_ACCESS_TOKEN"
+            
+                https://api.mapbox.com/geocoding/v5/{endpoint}/{search_text}.json

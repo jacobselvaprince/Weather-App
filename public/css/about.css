@@ -1,0 +1,24 @@
+#img {
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    color: red;
+}
+
+div {
+    margin-bottom: 16px;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+footer {
+    margin-top: 16px;
+    border-top: 1px black solid;
+    color: gray;
+}
