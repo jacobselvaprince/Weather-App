@@ -5,6 +5,16 @@ $(document).ready(function () {
             alert("enter the city name");
             return;
         }
-        alert("Enter Successfully");
+
+        $.ajax({
+            url: `/api/weather?city=${name}`,
+            type: "GET",
+            success: function(result){
+                console.log(result);
+            },
+            error: function(e){
+                alert(e);
+            }
+        })
     })
 })

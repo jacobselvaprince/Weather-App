@@ -9,6 +9,20 @@ app.set('view engine', 'hbs');
 app.set('views', viewPath);
 app.use(express.static(publicDirPath));
 
+const foreCast = require('./utility/forecast');
+const geoCode = require('./utility/geoCode');
+
+
+app.get('/api/weather', function(req, res){
+    geoCode(req.query.city, function(lat, long){
+        foreCast(lat, long, function(temp){
+            res.status(200).send({
+                temperature: temp
+            })
+        })
+    })
+})
+
 app.get('/about', function (req, res) {
     res.render('about');
 })

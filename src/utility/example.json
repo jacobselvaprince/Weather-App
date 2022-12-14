@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "chennai"
+    ],
+    "features": [
+        {
+            "id": "place.8906859",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q1352"
+            },
+            "text": "Chennai",
+            "place_name": "Chennai, Tamil Nadu, India",
+            "bbox": [
+                80.140106,
+                12.852023,
+                80.332636,
+                13.234311
+            ],
+            "center": [
+                80.270186,
+                13.083694
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.270186,
+                    13.083694
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.1042027",
+                    "wikidata": "Q15116",
+                    "text": "Chennai"
+                },
+                {
+                    "id": "region.173163",
+                    "short_code": "IN-TN",
+                    "wikidata": "Q1445",
+                    "text": "Tamil Nadu"
+                },
+                {
+                    "id": "country.8811",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        },
+        {
+            "id": "neighborhood.36695147",
+            "type": "Feature",
+            "place_type": [
+                "neighborhood"
+            ],
+            "relevance": 1,
+            "properties": {},
+            "text": "Chennai International Airtport",
+            "place_name": "Chennai International Airtport, Meenambakkam, Pallavaram, Chengalpattu, Tamil Nadu, India",
+            "bbox": [
+                80.144979297,
+                12.976599927,
+                80.19240829,
+                13.00554599
+            ],
+            "center": [
+                80.152246,
+                12.981286
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.152246,
+                    12.981286
+                ]
+            },
+            "context": [
+                {
+                    "id": "locality.2726685291",
+                    "wikidata": "Q1916794",
+                    "text": "Meenambakkam"
+                },
+                {
+                    "id": "place.33196139",
+                    "wikidata": "Q1752584",
+                    "text": "Pallavaram"
+                },
+                {
+                    "id": "district.1033835",
+                    "wikidata": "Q65976177",
+                    "text": "Chengalpattu"
+                },
+                {
+                    "id": "region.173163",
+                    "short_code": "IN-TN",
+                    "wikidata": "Q1445",
+                    "text": "Tamil Nadu"
+                },
+                {
+                    "id": "country.8811",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        },
+        {
+            "id": "poi.1236950592078",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "foursquare": "4a10adacf964a520f2761fe3",
+                "landmark": true,
+                "address": "127 E 28th St",
+                "category": "vegetarian, vegan, vegetarian food, vegan food, vegetarian restaurant, vegan restaurant, restaurant"
+            },
+            "text": "Chennai Garden by Tiffin Wallah",
+            "place_name": "Chennai Garden by Tiffin Wallah, 127 E 28th St, New York, New York 10016, United States",
+            "center": [
+                -73.982835,
+                40.742826
+            ],
+            "geometry": {
+                "coordinates": [
+                    -73.982835,
+                    40.742826
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.552979692",
+                    "text": "Rose Hill"
+                },
+                {
+                    "id": "postcode.24719084",
+                    "text": "10016"
+                },
+                {
+                    "id": "locality.338856684",
+                    "wikidata": "Q11299",
+                    "text": "Manhattan"
+                },
+                {
+                    "id": "place.233720044",
+                    "wikidata": "Q60",
+                    "text": "New York"
+                },
+                {
+                    "id": "district.17000172",
+                    "wikidata": "Q500416",
+                    "text": "New York County"
+                },
+                {
+                    "id": "region.107756",
+                    "short_code": "US-NY",
+                    "wikidata": "Q1384",
+                    "text": "New York"
+                },
+                {
+                    "id": "country.8940",
+                    "short_code": "us",
+                    "wikidata": "Q30",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "poi.609885418946",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "foursquare": "4b8a5765f964a520366932e3",
+                "landmark": true,
+                "address": "141 & 143, Jalan Lagenda 5",
+                "category": "indian restaurant, indian food, restaurant"
+            },
+            "text": "Chennai Curry House",
+            "place_name": "Chennai Curry House, 141 & 143, Jalan Lagenda 5, Sungai Petani, Kedah 08000, Malaysia",
+            "center": [
+                100.50095,
+                5.659047
+            ],
+            "geometry": {
+                "coordinates": [
+                    100.50095,
+                    5.659047
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "postcode.372384",
+                    "text": "08000"
+                },
+                {
+                    "id": "place.3139744",
+                    "wikidata": "Q939738",
+                    "text": "Sungai Petani"
+                },
+                {
+                    "id": "region.74912",
+                    "short_code": "MY-02",
+                    "wikidata": "Q188947",
+                    "text": "Kedah"
+                },
+                {
+                    "id": "country.8864",
+                    "short_code": "my",
+                    "wikidata": "Q833",
+                    "text": "Malaysia"
+                }
+            ]
+        },
+        {
+            "id": "poi.953482776373",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "foursquare": "4b6d55dff964a52091712ce3",
+                "landmark": true,
+                "wikidata": "Q5091433",
+                "address": "Dr. Radha Krishnan Salai",
+                "category": "mall, shop"
+            },
+            "text": "Chennai Citi Centre",
+            "place_name": "Chennai Citi Centre, Dr. Radha Krishnan Salai, Chennai, Tamil Nadu, India",
+            "center": [
+                80.2738885,
+                13.043068
+            ],
+            "geometry": {
+                "coordinates": [
+                    80.2738885,
+                    13.043068
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.91991147",
+                    "text": "Loganathan Colony"
+                },
+                {
+                    "id": "locality.2859043435",
+                    "wikidata": "Q1646915",
+                    "text": "Mylapore"
+                },
+                {
+                    "id": "place.8906859",
+                    "wikidata": "Q1352",
+                    "text": "Chennai"
+                },
+                {
+                    "id": "district.1042027",
+                    "wikidata": "Q15116",
+                    "text": "Chennai"
+                },
+                {
+                    "id": "region.173163",
+                    "short_code": "IN-TN",
+                    "wikidata": "Q1445",
+                    "text": "Tamil Nadu"
+                },
+                {
+                    "id": "country.8811",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2022 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
